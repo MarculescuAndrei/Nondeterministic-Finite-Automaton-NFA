@@ -32,9 +32,11 @@ ________________
 
 The program takes that information and turns it into a dictionary, such as : {'1': [('1', 'a'), ('2', 'a'), ('6', 'b')], '2': [('2', 'b'), ('3', 'c'), ('4', 'b')], '4': [('5', 'b')]}
 <br>
-________________
-<br>
+
 
 <br>
 
 A key is a State that can go to another state, and it's corresponding elements are tuples where the first element represents the State that the 'key' goes to, and the 2nd element is the value of the move.
+
+________________
+<br>
