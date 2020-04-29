@@ -10,7 +10,7 @@ Second line : Final State(s)
 <br>
 Other Lines : X Y Z, Where the State X goes to State Y with Value Z
 
-Example: 
+<b>Example:</b> 
 <br>
 
 1 <br>
