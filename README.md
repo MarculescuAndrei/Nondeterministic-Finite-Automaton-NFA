@@ -8,7 +8,6 @@ _________________
 
 <br>
 
-<br>
 First line : Initial State(s)
 <br>
 Second line : Final State(s)
@@ -37,7 +36,6 @@ The program takes that information and turns it into a dictionary, such as : {'1
 <br>
 
 
-<br>
 
 A key is a State that can go to another state, and it's corresponding elements are tuples where the first element represents the State that the 'key' goes to, and the 2nd element is the value of the move.
 <br>
@@ -46,4 +44,6 @@ ________________
 <br>
 <p align="center">
 <b>Visual Representation:</b>
+<br>
+ <img src="https://i.imgur.com/NZO9GGx.jpg">
  </p>
