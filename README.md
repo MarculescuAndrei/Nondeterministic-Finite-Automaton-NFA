@@ -1,7 +1,7 @@
 # Nondeterministic-Finite-Automaton-NFA-nn
 A working Nondeterministic Finite Automaton(NFA) created in Python 3
 _________________
-<br>
+
 <p align="center">
 <b> How the Source is Structured: </b>
 </p>
