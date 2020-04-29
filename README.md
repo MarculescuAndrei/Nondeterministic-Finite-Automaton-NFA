@@ -47,3 +47,13 @@ ________________
 <br>
  <img src="https://i.imgur.com/NZO9GGx.jpg">
  </p>
+
+<br>
+___________
+In automata theory, a finite-state machine is called a deterministic finite automaton (DFA), if : <br>
+<br>
+
+<b>- each of its transitions is uniquely determined by its source state and input symbol</b><br>
+<b>- reading an input symbol is required for each state transition.</b> <br>
+<br>
+A nondeterministic finite automaton (NFA), or nondeterministic finite-state machine, does not need to obey these restrictions.<br>
