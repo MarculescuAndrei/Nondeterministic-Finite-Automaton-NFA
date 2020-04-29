@@ -6,19 +6,19 @@ _________________
 <br>
 First line : Initial State(s)
 Second line : Final State(s)
-
+<br>
 Other Lines : X Y Z, Where the State X goes to State Y with Value Z
 
 Example: 
-1
-3 5 6
-1 1 a 
-1 2 a
-1 6 b
-2 2 b 
-2 3 c
-2 4 b
-4 5 b
+1 <br>
+3 5 6 <br>
+1 1 a <br>
+1 2 a <br>
+1 6 b <br>
+2 2 b <br>
+2 3 c <br>
+2 4 b <br>
+4 5 b <br>
 
 ________________
 <br>
