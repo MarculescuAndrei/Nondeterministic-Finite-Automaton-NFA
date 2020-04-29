@@ -5,11 +5,14 @@ _________________
 <b> How the Source is Structured: </b>
 <br>
 First line : Initial State(s)
+<br>
 Second line : Final State(s)
 <br>
 Other Lines : X Y Z, Where the State X goes to State Y with Value Z
 
-Example: <br>
+Example: 
+<br>
+
 1 <br>
 3 5 6 <br>
 1 1 a <br>
@@ -24,4 +27,4 @@ ________________
 <br>
 
 The program takes that information and turns it into a dictionary, such as : {'1': [('1', 'a'), ('2', 'a'), ('6', 'b')], '2': [('2', 'b'), ('3', 'c'), ('4', 'b')], '4': [('5', 'b')]}<br>
-A key is a State that can go to another state, and it's corresponding elements are tuples where the first element of which represents the State that 'key' goes to, and the 2nd element is the value of the move.
+A key is a State that can go to another state, and it's corresponding elements are tuples where the first element represents the State that 'key' goes to, and the 2nd element is the value of the move.
