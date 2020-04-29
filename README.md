@@ -1,4 +1,4 @@
-# Nondeterministic-Finite-Automaton-NFA-nn
+# Nondeterministic-Finite-Automaton-NFA
 A working Nondeterministic Finite Automaton(NFA) created in Python 3
 _________________
 
