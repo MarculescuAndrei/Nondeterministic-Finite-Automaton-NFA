@@ -49,7 +49,7 @@ ________________
  </p>
 
 <br>
-___________
+_______________________
 In automata theory, a finite-state machine is called a deterministic finite automaton (DFA), if : <br>
 <br>
 
