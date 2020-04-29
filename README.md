@@ -30,7 +30,7 @@ Other Lines : X Y Z, Where the State X goes to State Y with Value Z<br>
 4 5 b <br>
 <br>
 ________________
-<br>
+
 
 The program takes that information and turns it into a dictionary, such as : {'1': [('1', 'a'), ('2', 'a'), ('6', 'b')], '2': [('2', 'b'), ('3', 'c'), ('4', 'b')], '4': [('5', 'b')]}
 <br>
